@@ -23,5 +23,8 @@ def test_fizzbuzz_33():
 def test_fizzbuzz_50():
     assert fizzbuzz(50) == 'buzz'
 
+def test_fizzbuzz_15():
+    assert fizzbuzz(15) == 'fizzbuzz'
+
 def test_fizzbuzz_45():
     assert fizzbuzz(45) == 'fizzbuzz'
