@@ -1,7 +1,7 @@
 #file located in pytest_Zhiyan/
 #filename = test_fizzbuzz.py
 
-from fizzbuzz_Z import fizzbuzz
+from fizzbuzz_Z.py import fizzbuzz
 import pytest
 
 #assert checks true/false
