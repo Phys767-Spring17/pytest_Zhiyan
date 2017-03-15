@@ -1,0 +1,5 @@
+1. File ".travis.yml" is important to run the test. How to write it: https://docs.travis-ci.com/user/getting-started/ and select python
+
+2. If the codes gets complicated, and needs importing python, numpy, etc., I need to uncomment the install requirements.txt in ".travis.yml", create the "requirements.txt" file, and include all the required installs there.
+
+3. After "git push", it will check tests automatically.
