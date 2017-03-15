@@ -1,4 +1,4 @@
-#file located in tests/
+#file located in pytest_Zhiyan/
 #filename = test_fizzbuzz.py
 
 from fizzbuzz_Z import fizzbuzz
